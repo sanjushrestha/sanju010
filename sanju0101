@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,*NBC SPORTS
+http://ok2.se:8000/nsEtY5rLbB/POXcxclkKk/170
+#EXTINF:-1,Sky Sport Football
+http://m3u.iptvstreaming.org:25461/live/esclusivemusic@gmail.com/mkfgczfezwsbjoa8votr/1085.ts
+#EXTINF:-1,|UK| SPORTS HD MAIN EVENT
+http://biloiptv.eu.com:8000/nadorge-exch/1VJEIkwDy0/1377
+#EXTINF:-1,|UK| SPORTS HD PREMIER LEAGUE
+http://biloiptv.eu.com:8000/nadorge-exch/1VJEIkwDy0/1373
+#EXTINF:-1,|UK| SPORTS HD FOOTBALL
+http://biloiptv.eu.com:8000/nadorge-exch/1VJEIkwDy0/7654
+#EXTINF:-1,LO-DE: EUROSPORT 1 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/89653.m3u8
+#EXTINF:-1,LO-DE: EUROSPORT 1 SD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/89652.m3u8
+#EXTINF:-1, KANTIPUR GOLD LIVE
+rtmp://192.241.129.217:2935/edgeusacdngold1/ktvgold
+#EXTINF:-1, KANTIPUR TV LIVE
+rtmp://192.241.129.217:2935/edgeusacdnktv1/ktvlive
+#EXTINF:0 type="video" channelId="-1" name="Colors HD" group="IN" tvg-country="in", Colors HD
+http://pn.playtv-ott.com:5000/felix/123456/99999710
